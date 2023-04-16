@@ -1,5 +1,3 @@
-![GitHub Views](https://github.com/Guty360?username=Guty360&color=2685BF)
-
 ### Hi there, I'm FireFox Developer 👋
 
 <!--
