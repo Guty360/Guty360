@@ -1,4 +1,6 @@
-### Hi there 👋
+![GitHub Views](https://github.com/Guty360?username=Guty360&color=2685BF)
+
+### Hi there, I'm FireFox Developer 👋
 
 <!--
 **Guty360/Guty360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
