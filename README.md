@@ -1,17 +1,11 @@
-### Hi there, I'm Guty360 as FireFox Developer 👋
+### Hi there, I'm Guty360 Developer 👋
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20🤠&text2=💖%20Open%20Source&width=800&height=400)
-<!--
-**Guty360/Guty360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome😎&width=1500&height=200)](https://github.com/Akshay090/svg-banners)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <div> 
+  <a href="http://beacons.ai/rafaballerini](https://www.youtube.com/watch?v=PyoRdu-i0AQ">
+    <image height="180em" src="https://github-readme-stats.vercel.app/api?username=guty360&show_icons=true&theme=dark&include_ll_ommits=ue&count_rivate=rue"/>
+    <image height="180em" with="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guty360&layout=compact&langs_count=16&theme=dracula"/>
+  <div/>
+<div/>
