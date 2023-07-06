@@ -3,12 +3,12 @@
 
 
 
-<h1 align="center">### Hi there, I'm Guty360 Developer 👋 ###</h1>
+<h1 align="center">### Hi there, I'm Gutyerrez-360 Developer 👋 ###</h1>
 <h3 align="center">I am a passionate programmer, I enjoy researching, analyzing and creating systems to understand and learn about the world of information in web programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guty360&label=Profile%20views&color=0e75b6&style=flat" alt="guty360" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gutyerrez-360&label=Profile%20views&color=0e75b6&style=flat" alt="guty360" /> </p>
 
-<p align="left"> <a href="https://github.com/Guty360"><img src="https://github-profile-trophy.vercel.app/?username=guty360" alt="guty360" /></a> </p>
+<p align="left"> <a href="https://github.com/Gutyerrez-360"><img src="https://github-profile-trophy.vercel.app/?username=Gutyerrez-360" alt="Gutyerrez-360" /></a> </p>
 
 <!-- - 👯 I’m looking to collaborate on [Veterinaria Mistum](https://github.com/Guty360/front-dsi) -->
 
@@ -22,7 +22,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://dev.to/fyrefox360](https://github.com/Guty360)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fyrefox360" height="30" width="40" /></a>
+<a href="[https://dev.to/fyrefox360](https://github.com/Gutyerrez-360)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fyrefox360" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -94,8 +94,8 @@
 <h2 style="color: #44AEFB">📊 Statistics</h2>
   <div align="center"> 
   <a href="http://beacons.ai/rafaballerini](https://www.youtube.com/watch?v=PyoRdu-i0AQ">
-    <image height="180em" src="https://github-readme-stats.vercel.app/api?username=guty360&show_icons=true&theme=dark&include_ll_ommits=ue&count_rivate=rue"/>
-    <image height="180em" with="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guty360&layout=compact&langs_count=16&theme=dracula"/>
+    <image height="180em" src="https://github-readme-stats.vercel.app/api?username=Gutyerrez-360&show_icons=true&theme=dark&include_ll_ommits=ue&count_rivate=rue"/>
+    <image height="180em" with="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutyerrez-360&layout=compact&langs_count=16&theme=dracula"/>
   <div/>
 <div/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guty360&" alt="guty360" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gutyerrez-360&" alt="Gutyerrez-360" /></p>
